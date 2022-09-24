@@ -44,3 +44,28 @@
 2022-09-24 19:56:02.633 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7083/color/Home/get-random-color - - - 200 - application/json;+charset=utf-8 158.0887ms
 2022-09-24 19:56:02.650 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7083/favicon.ico - -
 2022-09-24 19:56:02.651 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7083/favicon.ico - - - 404 0 - 0.7169ms
+2022-09-24 19:57:47.589 +03:00 [INF] User profile is available. Using 'C:\Users\Atlas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-09-24 19:57:47.616 +03:00 [INF] Loading proxy data from config.
+2022-09-24 19:57:47.647 +03:00 [DBG] Destination 'destination1' has been added.
+2022-09-24 19:57:47.674 +03:00 [DBG] New client created for cluster 'colorCluster'.
+2022-09-24 19:57:47.675 +03:00 [DBG] Cluster 'colorCluster' has been added.
+2022-09-24 19:57:47.677 +03:00 [DBG] Destination 'destination1' has been added.
+2022-09-24 19:57:47.677 +03:00 [DBG] New client created for cluster 'numberCluster'.
+2022-09-24 19:57:47.677 +03:00 [DBG] Cluster 'numberCluster' has been added.
+2022-09-24 19:57:47.681 +03:00 [DBG] Route 'Color Service' has been added.
+2022-09-24 19:57:47.681 +03:00 [DBG] Route 'Number Service' has been added.
+2022-09-24 19:57:47.874 +03:00 [INF] Now listening on: https://localhost:7083
+2022-09-24 19:57:47.875 +03:00 [INF] Now listening on: http://localhost:5056
+2022-09-24 19:57:47.876 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-24 19:57:47.876 +03:00 [INF] Hosting environment: Development
+2022-09-24 19:57:47.876 +03:00 [INF] Content root path: C:\Users\Atlas\RiderProjects\YarpSample\YARP.Gateway\
+2022-09-24 19:57:48.454 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7083/swagger/index.html - -
+2022-09-24 19:57:48.614 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7083/swagger/index.html - - - 200 - text/html;charset=utf-8 165.0556ms
+2022-09-24 19:57:48.803 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7083/swagger/v1/swagger.json - -
+2022-09-24 19:57:48.857 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7083/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 53.6411ms
+2022-09-24 19:58:06.567 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7083/color/Home/get-random-color - -
+2022-09-24 19:58:06.590 +03:00 [INF] Executing endpoint 'Color Service'
+2022-09-24 19:58:06.622 +03:00 [INF] Proxying to https://localhost:5000/color/Home/get-random-color HTTP/2 RequestVersionOrLower no-streaming
+2022-09-24 19:58:06.705 +03:00 [INF] Received HTTP/2.0 response 200.
+2022-09-24 19:58:06.722 +03:00 [INF] Executed endpoint 'Color Service'
+2022-09-24 19:58:06.724 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7083/color/Home/get-random-color - - - 200 - application/json;+charset=utf-8 157.1276ms
