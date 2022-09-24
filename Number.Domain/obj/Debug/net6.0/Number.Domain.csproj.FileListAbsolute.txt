@@ -1,0 +1,12 @@
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\bin\Debug\net6.0\Number.Domain.deps.json
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\bin\Debug\net6.0\Number.Domain.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\bin\Debug\net6.0\Number.Domain.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\obj\Debug\net6.0\Number.Domain.csproj.AssemblyReference.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\obj\Debug\net6.0\Number.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\obj\Debug\net6.0\Number.Domain.AssemblyInfoInputs.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\obj\Debug\net6.0\Number.Domain.AssemblyInfo.cs
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\obj\Debug\net6.0\Number.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\obj\Debug\net6.0\Number.Domain.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\obj\Debug\net6.0\refint\Number.Domain.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\obj\Debug\net6.0\Number.Domain.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Domain\obj\Debug\net6.0\ref\Number.Domain.dll

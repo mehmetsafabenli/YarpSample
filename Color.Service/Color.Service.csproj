@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Color.Abstraction\Color.Abstraction.csproj" />
+      <ProjectReference Include="..\Color.Domain\Color.Domain.csproj" />
+      <ProjectReference Include="..\Number.Abstraction\Number.Abstraction.csproj" />
+    </ItemGroup>
+
+</Project>

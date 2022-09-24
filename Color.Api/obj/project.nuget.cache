@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "W3//nLL71c2v8KuOEnN6mGglO1+UEKdImnSLuo2XIug21cK+F0FCGpfT2L/pZk0n2eSzSIw+DY7MoT5OmXJjUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Atlas\\RiderProjects\\YarpSample\\Color.Api\\Color.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atlas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Atlas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Atlas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Atlas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Atlas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Atlas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

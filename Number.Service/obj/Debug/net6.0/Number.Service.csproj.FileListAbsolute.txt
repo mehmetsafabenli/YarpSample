@@ -1,0 +1,17 @@
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\bin\Debug\net6.0\Number.Service.deps.json
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\bin\Debug\net6.0\Number.Service.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\bin\Debug\net6.0\Number.Service.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\bin\Debug\net6.0\Number.Abstraction.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\bin\Debug\net6.0\Number.Domain.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\bin\Debug\net6.0\Number.Abstraction.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\bin\Debug\net6.0\Number.Domain.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\obj\Debug\net6.0\Number.Service.csproj.AssemblyReference.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\obj\Debug\net6.0\Number.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\obj\Debug\net6.0\Number.Service.AssemblyInfoInputs.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\obj\Debug\net6.0\Number.Service.AssemblyInfo.cs
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\obj\Debug\net6.0\Number.Service.csproj.CoreCompileInputs.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\obj\Debug\net6.0\Number.Service.csproj.CopyComplete
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\obj\Debug\net6.0\Number.Service.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\obj\Debug\net6.0\refint\Number.Service.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\obj\Debug\net6.0\Number.Service.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Service\obj\Debug\net6.0\ref\Number.Service.dll

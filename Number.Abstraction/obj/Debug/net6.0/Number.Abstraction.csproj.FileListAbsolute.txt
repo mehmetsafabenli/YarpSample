@@ -1,0 +1,15 @@
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\bin\Debug\net6.0\Number.Abstraction.deps.json
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\bin\Debug\net6.0\Number.Abstraction.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\bin\Debug\net6.0\Number.Abstraction.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\bin\Debug\net6.0\Number.Domain.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\bin\Debug\net6.0\Number.Domain.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\obj\Debug\net6.0\Number.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\obj\Debug\net6.0\Number.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\obj\Debug\net6.0\Number.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\obj\Debug\net6.0\Number.Abstraction.AssemblyInfo.cs
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\obj\Debug\net6.0\Number.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\obj\Debug\net6.0\Number.Abstraction.csproj.CopyComplete
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\obj\Debug\net6.0\Number.Abstraction.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\obj\Debug\net6.0\refint\Number.Abstraction.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\obj\Debug\net6.0\Number.Abstraction.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Number.Abstraction\obj\Debug\net6.0\ref\Number.Abstraction.dll

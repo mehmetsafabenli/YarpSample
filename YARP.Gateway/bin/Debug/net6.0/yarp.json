@@ -1,0 +1,34 @@
+{
+  "ReverseProxy": {
+    "Routes": {
+      "Color Service": {
+        "ClusterId": "colorCluster",
+        "Match": {
+          "Path": "/color/{**everything}"
+        }
+      },
+      "Number Service": {
+        "ClusterId": "numberCluster",
+        "Match": {
+          "Path": "/number/{**everything}"
+        }
+      }
+    },
+    "Clusters": {
+      "colorCluster": {
+        "Destinations": {
+          "destination1": {
+            "Address": "https://localhost:5000"
+          }
+        }
+      },
+      "numberCluster": {
+        "Destinations": {
+          "destination1": {
+            "Address": "https://localhost:7000"
+          }
+        }
+      }
+    }
+  }
+}

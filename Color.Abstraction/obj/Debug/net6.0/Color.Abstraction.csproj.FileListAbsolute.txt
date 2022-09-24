@@ -1,0 +1,15 @@
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\bin\Debug\net6.0\Color.Abstraction.deps.json
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\bin\Debug\net6.0\Color.Abstraction.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\bin\Debug\net6.0\Color.Abstraction.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\bin\Debug\net6.0\Color.Domain.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\bin\Debug\net6.0\Color.Domain.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\obj\Debug\net6.0\Color.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\obj\Debug\net6.0\Color.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\obj\Debug\net6.0\Color.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\obj\Debug\net6.0\Color.Abstraction.AssemblyInfo.cs
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\obj\Debug\net6.0\Color.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\obj\Debug\net6.0\Color.Abstraction.csproj.CopyComplete
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\obj\Debug\net6.0\Color.Abstraction.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\obj\Debug\net6.0\refint\Color.Abstraction.dll
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\obj\Debug\net6.0\Color.Abstraction.pdb
+C:\Users\Atlas\RiderProjects\YarpSample\Color.Abstraction\obj\Debug\net6.0\ref\Color.Abstraction.dll

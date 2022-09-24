@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Color.Abstraction/1.0.0": {
+        "dependencies": {
+          "Color.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Color.Abstraction.dll": {}
+        }
+      },
+      "Color.Domain/1.0.0": {
+        "runtime": {
+          "Color.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Color.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Color.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
