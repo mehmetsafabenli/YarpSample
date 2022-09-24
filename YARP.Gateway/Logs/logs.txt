@@ -1,0 +1,46 @@
+2022-09-24 19:52:49.686 +03:00 [INF] User profile is available. Using 'C:\Users\Atlas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-09-24 19:52:49.712 +03:00 [INF] Loading proxy data from config.
+2022-09-24 19:52:49.736 +03:00 [DBG] Destination 'destination1' has been added.
+2022-09-24 19:52:49.759 +03:00 [DBG] New client created for cluster 'colorCluster'.
+2022-09-24 19:52:49.759 +03:00 [DBG] Cluster 'colorCluster' has been added.
+2022-09-24 19:52:49.761 +03:00 [DBG] Destination 'destination1' has been added.
+2022-09-24 19:52:49.761 +03:00 [DBG] New client created for cluster 'numberCluster'.
+2022-09-24 19:52:49.761 +03:00 [DBG] Cluster 'numberCluster' has been added.
+2022-09-24 19:52:49.765 +03:00 [DBG] Route 'Color Service' has been added.
+2022-09-24 19:52:49.765 +03:00 [DBG] Route 'Number Service' has been added.
+2022-09-24 19:52:49.940 +03:00 [INF] Now listening on: https://localhost:7083
+2022-09-24 19:52:49.940 +03:00 [INF] Now listening on: http://localhost:5056
+2022-09-24 19:52:49.941 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-24 19:52:49.941 +03:00 [INF] Hosting environment: Development
+2022-09-24 19:52:49.941 +03:00 [INF] Content root path: C:\Users\Atlas\RiderProjects\YarpSample\YARP.Gateway\
+2022-09-24 19:52:50.306 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7083/swagger/index.html - -
+2022-09-24 19:52:50.460 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7083/swagger/index.html - - - 200 - text/html;charset=utf-8 157.1561ms
+2022-09-24 19:52:50.619 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7083/swagger/v1/swagger.json - -
+2022-09-24 19:52:50.677 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7083/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 58.4972ms
+2022-09-24 19:55:41.274 +03:00 [INF] User profile is available. Using 'C:\Users\Atlas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-09-24 19:55:41.296 +03:00 [INF] Loading proxy data from config.
+2022-09-24 19:55:41.322 +03:00 [DBG] Destination 'destination1' has been added.
+2022-09-24 19:55:41.345 +03:00 [DBG] New client created for cluster 'colorCluster'.
+2022-09-24 19:55:41.346 +03:00 [DBG] Cluster 'colorCluster' has been added.
+2022-09-24 19:55:41.348 +03:00 [DBG] Destination 'destination1' has been added.
+2022-09-24 19:55:41.348 +03:00 [DBG] New client created for cluster 'numberCluster'.
+2022-09-24 19:55:41.348 +03:00 [DBG] Cluster 'numberCluster' has been added.
+2022-09-24 19:55:41.351 +03:00 [DBG] Route 'Color Service' has been added.
+2022-09-24 19:55:41.351 +03:00 [DBG] Route 'Number Service' has been added.
+2022-09-24 19:55:41.525 +03:00 [INF] Now listening on: https://localhost:7083
+2022-09-24 19:55:41.525 +03:00 [INF] Now listening on: http://localhost:5056
+2022-09-24 19:55:41.526 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-24 19:55:41.526 +03:00 [INF] Hosting environment: Development
+2022-09-24 19:55:41.526 +03:00 [INF] Content root path: C:\Users\Atlas\RiderProjects\YarpSample\YARP.Gateway\
+2022-09-24 19:55:42.084 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7083/swagger/index.html - -
+2022-09-24 19:55:42.280 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7083/swagger/index.html - - - 200 - text/html;charset=utf-8 197.4863ms
+2022-09-24 19:55:42.446 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7083/swagger/v1/swagger.json - -
+2022-09-24 19:55:42.484 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7083/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 38.0283ms
+2022-09-24 19:56:02.475 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7083/color/Home/get-random-color - -
+2022-09-24 19:56:02.493 +03:00 [INF] Executing endpoint 'Color Service'
+2022-09-24 19:56:02.529 +03:00 [INF] Proxying to https://localhost:5000/color/Home/get-random-color HTTP/2 RequestVersionOrLower no-streaming
+2022-09-24 19:56:02.614 +03:00 [INF] Received HTTP/2.0 response 200.
+2022-09-24 19:56:02.632 +03:00 [INF] Executed endpoint 'Color Service'
+2022-09-24 19:56:02.633 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7083/color/Home/get-random-color - - - 200 - application/json;+charset=utf-8 158.0887ms
+2022-09-24 19:56:02.650 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7083/favicon.ico - -
+2022-09-24 19:56:02.651 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7083/favicon.ico - - - 404 0 - 0.7169ms
