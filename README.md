@@ -1,4 +1,4 @@
-# .NET YARP İLE Microservice Gateway
+# .NET YARP İlE Micro Service Gateway
 
 Selamlar, Bu proje de YARP(Reverse Proxy) Teknolojisi ile örnek bir Api Gateway projesi oluşturacağız.
 
