@@ -201,7 +201,7 @@ public class ColorService : IColorService
 
 
 
-**Color Microservis Projemizi 5001 Portu üzerinden kaldırılması için gerekli ayarlamanın yapılması.**
+**Color Microservis Projemizi 5000 Portu üzerinden kaldırılması için gerekli ayarlamanın yapılması.**
 
  -  Burada ki port ayarlaması tamamen size kalmış bir durum.
 
